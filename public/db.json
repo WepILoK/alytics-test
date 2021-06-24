@@ -1,0 +1,442 @@
+{
+  "tableItems": [
+    {
+      "key": "1",
+      "icon": "https://testing1.alytics.ru/icons/usersgroup.png",
+      "name": "Пр тр",
+      "group": "Группа. Источников",
+      "status": false,
+      "traffic": {
+        "screenings": 0,
+        "clicks": 1716,
+        "sessions": 1716,
+        "ctr": 0,
+        "clickCost": 0,
+        "expenses": 0
+      },
+      "sales": {
+        "quantity": 344.54,
+        "cpa": 0,
+        "proceeds": 677870.75
+      },
+      "target": {
+        "quantity": 29,
+        "cpa": 0,
+        "cr": 1.51
+      },
+      "sources": [
+        {
+          "key": "1",
+          "icon": "https://testing1.alytics.ru/icons/usersgroup.png",
+          "name": "Пр тр",
+          "traffic": {
+            "screenings": 0,
+            "clicks": 1716,
+            "sessions": 1716,
+            "ctr": 0,
+            "clickCost": 0,
+            "expenses": 0
+          },
+          "sales": {
+            "quantity": 344.54,
+            "cpa": 0,
+            "proceeds": 677870.75
+          },
+          "target": {
+            "quantity": 29,
+            "cpa": 0,
+            "cr": 1.51
+          }
+        }
+      ]
+    },
+    {
+      "key": "2",
+      "icon": "https://direct.yandex.ru/favicon.ico",
+      "name": "Яндекс Директ",
+      "group": "Платная реклама",
+      "status": true,
+      "traffic": {
+        "screenings": 299571,
+        "clicks": 843,
+        "sessions": 1388,
+        "ctr": 0.28,
+        "clickCost": 35.9,
+        "expenses": 30266
+      },
+      "sales": {
+        "quantity": 181.64,
+        "cpa": 16.65,
+        "proceeds": 423713.43
+      },
+      "target": {
+        "quantity": 28,
+        "cpa": 1.53,
+        "cr": 3.51
+      }
+    },
+    {
+      "key": "3",
+      "icon": "https://testing1.alytics.ru/icons/groups/315b6fb9-cc96-4f34-9e1c-50f5550ce863.png",
+      "name": "Органический поиск",
+      "group": "Группа. Источников",
+      "status": false,
+      "traffic": {
+        "screenings": 0,
+        "clicks": 1370,
+        "sessions": 1370,
+        "ctr": 0,
+        "clickCost": 0,
+        "expenses": 0
+      },
+      "sales": {
+        "quantity": 332.41,
+        "cpa": 0,
+        "proceeds": 648828.54
+      },
+      "target": {
+        "quantity": 14,
+        "cpa": 0,
+        "cr": 1.51
+      },
+      "sources": [
+        {
+          "key": "1",
+          "icon": "https://testing1.alytics.ru/icons/groups/315b6fb9-cc96-4f34-9e1c-50f5550ce863.png",
+          "name": "Органический поиск",
+          "traffic": {
+            "screenings": 0,
+            "clicks": 1370,
+            "sessions": 1370,
+            "ctr": 0,
+            "clickCost": 0,
+            "expenses": 0
+          },
+          "sales": {
+            "quantity": 332.41,
+            "cpa": 0,
+            "proceeds": 648828.54
+          },
+          "target": {
+            "quantity": 14,
+            "cpa": 0,
+            "cr": 1.51
+          }
+        },
+        {
+          "key": "2",
+          "icon": "https://testing1.alytics.ru/icons/groups/315b6fb9-cc96-4f34-9e1c-50f5550ce863.png",
+          "name": "Органический поиск",
+          "traffic": {
+            "screenings": 0,
+            "clicks": 0,
+            "sessions": 0,
+            "ctr": 0,
+            "clickCost": 0,
+            "expenses": 0
+          },
+          "sales": {
+            "quantity": 0,
+            "cpa": 0,
+            "proceeds": 0
+          },
+          "target": {
+            "quantity": 0,
+            "cpa": 0,
+            "cr": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "4",
+      "icon": "https://www.google.com/images/branding/product/1x/ads_24dp.png",
+      "name": "Google Ads",
+      "group": "Платная реклама",
+      "status": true,
+      "traffic": {
+        "screenings": 5272,
+        "clicks": 252,
+        "sessions": 449,
+        "ctr": 4.78,
+        "clickCost": 58.77,
+        "expenses": 14809
+      },
+      "sales": {
+        "quantity": 107.13,
+        "cpa": 13.65,
+        "proceeds": 242913.33
+      },
+      "target": {
+        "quantity": 10,
+        "cpa": 1.53,
+        "cr": 3.51
+      }
+    },
+    {
+      "key": "5",
+      "icon": "https://testing1.alytics.ru/icons/groups/927a0bd0-bc5a-4722-beb7-c1d520c7ec72.png",
+      "name": "Переходы с сайтов",
+      "group": "Группа. Источников",
+      "status": false,
+      "traffic": {
+        "screenings": 0,
+        "clicks": 220,
+        "sessions": 220,
+        "ctr": 0,
+        "clickCost": 0,
+        "expenses": 0
+      },
+      "sales": {
+        "quantity": 51.41,
+        "cpa": 0,
+        "proceeds": 109487.54
+      },
+      "target": {
+        "quantity": 4,
+        "cpa": 0,
+        "cr": 1.51
+      },
+      "sources": [
+        {
+          "key": "1",
+          "icon": "https://testing1.alytics.ru/icons/groups/927a0bd0-bc5a-4722-beb7-c1d520c7ec72.png",
+          "name": "Переходы с сайтов",
+          "traffic": {
+            "screenings": 0,
+            "clicks": 220,
+            "sessions": 220,
+            "ctr": 0,
+            "clickCost": 0,
+            "expenses": 0
+          },
+          "sales": {
+            "quantity": 51.41,
+            "cpa": 0,
+            "proceeds": 109487.54
+          },
+          "target": {
+            "quantity": 4,
+            "cpa": 0,
+            "cr": 1.51
+          }
+        },
+        {
+          "key": "2",
+          "icon": "https://testing1.alytics.ru/icons/groups/927a0bd0-bc5a-4722-beb7-c1d520c7ec72.png",
+          "name": "Переходы с сайтов",
+          "traffic": {
+            "screenings": 0,
+            "clicks": 0,
+            "sessions": 0,
+            "ctr": 0,
+            "clickCost": 0,
+            "expenses": 0
+          },
+          "sales": {
+            "quantity": 0,
+            "cpa": 0,
+            "proceeds": 0
+          },
+          "target": {
+            "quantity": 0,
+            "cpa": 0,
+            "cr": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "6",
+      "icon": "https://testing1.alytics.ru/icons/e-mail.ico",
+      "name": "Email-рассылки",
+      "group": "Группа. Источников",
+      "status": false,
+      "traffic": {
+        "screenings": 0,
+        "clicks": 84,
+        "sessions": 84,
+        "ctr": 0,
+        "clickCost": 75,
+        "expenses": 6300
+      },
+      "sales": {
+        "quantity": 15.4,
+        "cpa": 40.43,
+        "proceeds": 29021.45
+      },
+      "target": {
+        "quantity": 2,
+        "cpa": 3.54,
+        "cr": 2.51
+      },
+      "sources": [
+        {
+          "key": "1",
+          "icon": "https://testing1.alytics.ru/icons/e-mail.ico",
+          "name": "e-mail / e-mail",
+          "traffic": {
+            "screenings": 0,
+            "clicks": 81,
+            "sessions": 81,
+            "ctr": 0,
+            "clickCost": 39.51,
+            "expenses": 3200
+          },
+          "sales": {
+            "quantity": 15.21,
+            "cpa": 21.43,
+            "proceeds": 28614.4
+          },
+          "target": {
+            "quantity": 2,
+            "cpa": 1.32,
+            "cr": 2.43
+          }
+        },
+        {
+          "key": "2",
+          "icon": "https://testing1.alytics.ru/icons/groups/927a0bd0-bc5a-4722-beb7-c1d520c7ec72.png",
+          "name": "videocourse / email",
+          "traffic": {
+            "screenings": 0,
+            "clicks": 2,
+            "sessions": 2,
+            "ctr": 0,
+            "clickCost": 0,
+            "expenses": 0
+          },
+          "sales": {
+            "quantity": 0.19,
+            "cpa": 0,
+            "proceeds": 407.05
+          },
+          "target": {
+            "quantity": 0,
+            "cpa": 0,
+            "cr": 0
+          }
+        },
+        {
+          "key": "3",
+          "icon": "https://testing1.alytics.ru/icons/getresponse.ico",
+          "name": "getresponse / email",
+          "traffic": {
+            "screenings": 0,
+            "clicks": 1,
+            "sessions": 1,
+            "ctr": 0,
+            "clickCost": 0,
+            "expenses": 0
+          },
+          "sales": {
+            "quantity": 0,
+            "cpa": 0,
+            "proceeds": 0
+          },
+          "target": {
+            "quantity": 0,
+            "cpa": 0,
+            "cr": 0
+          }
+        },
+        {
+          "key": "4",
+          "icon": "https://testing1.alytics.ru/icons/cm.ico",
+          "name": "cm / email",
+          "traffic": {
+            "screenings": 0,
+            "clicks": 0,
+            "sessions": 0,
+            "ctr": 0,
+            "clickCost": 0,
+            "expenses": 0
+          },
+          "sales": {
+            "quantity": 0,
+            "cpa": 0,
+            "proceeds": 0
+          },
+          "target": {
+            "quantity": 0,
+            "cpa": 0,
+            "cr": 0
+          }
+        },
+        {
+          "key": "5",
+          "icon": "https://testing1.alytics.ru/icons/e-mail.ico",
+          "name": "e-mail / course",
+          "traffic": {
+            "screenings": 0,
+            "clicks": 0,
+            "sessions": 0,
+            "ctr": 0,
+            "clickCost": 0,
+            "expenses": 3100
+          },
+          "sales": {
+            "quantity": 0,
+            "cpa": 0,
+            "proceeds": 0
+          },
+          "target": {
+            "quantity": 0,
+            "cpa": 0,
+            "cr": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "7",
+      "icon": "https://testing1.alytics.ru/icons/groups/2ac20f67-d143-4fae-a7c3-d2b195a662a9.png",
+      "name": "Реклама с оплатой за клик",
+      "group": "Группа. Источников",
+      "status": false,
+      "traffic": {
+        "screenings": 0,
+        "clicks": 38,
+        "sessions": 38,
+        "ctr": 0,
+        "clickCost": 0.82,
+        "expenses": 33
+      },
+      "sales": {
+        "quantity": 3.07,
+        "cpa": 7.49,
+        "proceeds": 4034.45
+      },
+      "target": {
+        "quantity": 0,
+        "cpa": 0,
+        "cr": 0
+      },
+      "sources": [
+        {
+          "key": "1",
+          "icon": "https://testing1.alytics.ru/icons/groups/2ac20f67-d143-4fae-a7c3-d2b195a662a9.png",
+          "name": "Реклама с оплатой за клик",
+          "traffic": {
+            "screenings": 0,
+            "clicks": 38,
+            "sessions": 38,
+            "ctr": 0,
+            "clickCost": 0.82,
+            "expenses": 33
+          },
+          "sales": {
+            "quantity": 3.07,
+            "cpa": 7.49,
+            "proceeds": 4034.45
+          },
+          "target": {
+            "quantity": 0,
+            "cpa": 0,
+            "cr": 0
+          }
+        }
+      ]
+    }
+  ]
+}

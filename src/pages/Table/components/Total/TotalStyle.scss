@@ -1,0 +1,29 @@
+.total {
+  display: flex;
+  background-color: #FEF7EC;
+  border-top: 1px solid #E0E0E0;
+
+  .title {
+    font-weight: 750;
+    width: 255px;
+    height: 40px;
+    padding: 15px 0 0 15px;
+    border-right: 1px solid #E0E0E0;
+
+  }
+
+  .total-traffic {
+    height: 40px;
+    padding-top: 15px;
+  }
+
+  .total-sales {
+    height: 40px;
+    padding-top: 15px;
+  }
+
+  .total-target {
+    height: 40px;
+    padding-top: 15px;
+  }
+}

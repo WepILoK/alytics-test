@@ -1,0 +1,102 @@
+.total-traffic {
+  display: flex;
+  width: 519px;
+  padding-right: 15px;
+  padding-left: 15px;
+  border-right: 1px solid #E0E0E0;
+
+  div {
+    text-align: right;
+  }
+
+  .screenings {
+    width: 65px;
+  }
+
+  .clicks {
+    width: 80px;
+  }
+
+  .sessions {
+    width: 93px;
+  }
+
+  .ctr {
+    width: 72px;
+  }
+
+  .clickCost {
+    width: 105px;
+  }
+
+  .expenses {
+    width: 105px;
+  }
+
+}
+
+.total-sales {
+  display: flex;
+  width: 214px;
+  padding-right: 10px;
+  padding-left: 25px;
+  border-right: 1px solid #E0E0E0;
+
+  div {
+    text-align: right;
+
+    &:nth-child(1n + 2) {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+
+  .quantity {
+    width: 65px;
+    padding-right: 5px;
+  }
+
+  .cpa {
+    width: 18px;
+    padding-left: 33px;
+  }
+
+  .proceeds {
+    width: 56px;
+    padding-left: 35px;
+  }
+
+}
+
+.total-target {
+  display: flex;
+  width: 135px;
+  padding-right: 15px;
+  padding-left: 30px;
+
+  div {
+    text-align: right;
+
+    &:nth-child(1n + 2) {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+
+  .quantity {
+    width: 30px;
+  }
+
+  .cpa {
+    width: 25px;
+    padding-left: 40px;
+
+  }
+
+  .cr {
+    width: 25px;
+    padding-left: 35px;
+  }
+}

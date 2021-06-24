@@ -1,0 +1,69 @@
+.active-item {
+  background-color: #f6f6f6;
+}
+
+.table-item {
+  display: flex;
+  border-top: 1px solid #E0E0E0;
+
+  .sources-traffic {
+    display: flex;
+    align-items: center;
+    width: 254px;
+    height: 65px;
+    padding: 0 0 0 15px;
+    border-right: 1px solid #E0E0E0;
+
+    .icon {
+      cursor: pointer;
+    }
+
+    .skip {
+      width: 15px;
+    }
+
+    img {
+      max-width: 15px;
+    }
+
+    .item-icon {
+      padding: 0 10px 0 5px;
+    }
+
+    .item-title {
+      font-weight: 400;
+
+      .item-name {
+        color: #4289a9;
+      }
+
+      .item-group {
+        color: #838383;
+      }
+    }
+
+    .item-status {
+      margin-left: 70px;
+      width: 9px;
+      height: 9px;
+      border-radius: 5px;
+      background-color: #A5D24A;
+    }
+
+  }
+
+  .total-traffic {
+    height: 40px;
+    padding-top: 25px;
+  }
+
+  .total-sales {
+    height: 40px;
+    padding-top: 25px;
+  }
+
+  .total-target {
+    height: 40px;
+    padding-top: 25px;
+  }
+}
